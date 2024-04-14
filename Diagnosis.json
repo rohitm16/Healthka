@@ -1,0 +1,130 @@
+[
+  {
+    "disease": "Coronary_artery_and_vascular_disease",
+    "weight": "6"
+  },
+  {
+    "disease": "Heart_rhythm_disorders",
+    "weight": "6"
+  },
+  {
+    "disease": "Structural_heart_disease",
+    "weight": "6"
+  },
+  {
+    "disease": "Heart_failure",
+    "weight": "6"
+  },
+  {
+    "disease": "Angina",
+    "weight": "6"
+  },
+  {
+    "disease": "Unstable_angina",
+    "weight": "6"
+  },
+  {
+    "disease": "Variant_angina",
+    "weight": "6"
+  },
+  {
+    "disease": "Microvascular_angina",
+    "weight": "6"
+  },
+  {
+    "disease": "SCAD",
+    "weight": "6"
+  },
+  {
+    "disease": "Tachycardia",
+    "weight": "6"
+  },
+  {
+    "disease": "Rapid_heartbeat",
+    "weight": "6"
+  },
+  {
+    "disease": "Slow_heartbeat",
+    "weight": "6"
+  },
+  {
+    "disease": "Atrial_flutter",
+    "weight": "6"
+  },
+  {
+    "disease": "Atrial_fibrillation",
+    "weight": "6"
+  },
+  {
+    "disease": "Paroxysmal_supraventricular_tachycardia ",
+    "weight": "6"
+  },
+  {
+    "disease": "Wolff_Parkinson_White ",
+    "weight": "6"
+  },
+  {
+    "disease": "Ventricular_tachycardia ",
+    "weight": "6"
+  },
+  {
+    "disease": "Ventricular_fibrillation ",
+    "weight": "6"
+  },
+  {
+    "disease": "Holes_in_the_heart  ",
+    "weight": "6"
+  },
+  {
+    "disease": "Atrial_septal_defect ",
+    "weight": "6"
+  },
+  {
+    "disease": "Ventricular_septal_defect  ",
+    "weight": "6"
+  },
+  {
+    "disease": "Stenosis",
+    "weight": "6"
+  },
+  {
+    "disease": "Pulmonary_valve_stenosis",
+    "weight": "6"
+  },
+  {
+    "disease": "Pulmonary_atresia",
+    "weight": "6"
+  },
+  {
+    "disease": "Tricuspid_atresia",
+    "weight": "6"
+  },
+  {
+    "disease": "Aortic_stenosis",
+    "weight": "6"
+  },
+  {
+    "disease": "Coarctation_of_the_aorta  ",
+    "weight": "6"
+  },
+  {
+    "disease": "Patent_ductus_arteriosus ",
+    "weight": "6"
+  },
+  {
+    "disease": "Blue_babies  ",
+    "weight": "6"
+  },
+  {
+    "disease": "Pulmonary_valve_stenosis  ",
+    "weight": "6"
+  },
+  {
+    "disease": "Ebstein's_anomaly",
+    "weight": "6"
+  },
+  {
+    "disease": "Hypoplastic_left_heart_syndrome",
+    "weight": "6"
+  }
+]

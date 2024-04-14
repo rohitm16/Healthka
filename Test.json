@@ -1,0 +1,65 @@
+[
+  {
+    "Test": "Cardiac_enzyme_tests"
+  },
+  {
+    "Test": "Full_blood_count "
+  },
+  {
+    "Test": "Thyroid_function_tests"
+  },
+  {
+    "Test": "Lipid_profile"
+  },
+  {
+    "Test": "Liver_tests"
+  },
+  {
+    "Test": "Clotting_screen"
+  },
+  {
+    "Test": "BNP"
+  },
+  {
+    "Test": "HbA1C"
+  },
+  {
+    "Test": "U&E_test"
+  },
+  {
+    "Test": "Angiography"
+  },
+  {
+    "Test": "Cardiac_catheterization"
+  },
+  {
+    "Test": "Chest_X-ray"
+  },
+  {
+    "Test": "Doppler_ultrasound"
+  },
+  {
+    "Test": "Echocardiogram"
+  },
+  {
+    "Test": "Electrocardiogram"
+  },
+  {
+    "Test": "EPS"
+  },
+  {
+    "Test": "Holter_monitoring"
+  },
+  {
+    "Test": "Heart_MRI"
+  },
+  {
+    "Test": "Thallium"
+  },
+  {
+    "Test": "Tilt_table_ exam"
+  },
+  {
+    "Test": "Transesophageal_echocardiogram"
+  }
+]
